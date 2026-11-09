@@ -1,0 +1,5 @@
+Bell Sans is a renamed, subsetted static font derived from Noto Sans CJK SC.
+Copyright 2014–2021 Adobe, with Reserved Font Name 'Source'.
+Bell Serif is a renamed, subsetted static font derived from Noto Serif CJK SC.
+Copyright 2017–2023 Adobe.
+Both fonts are licensed under the SIL Open Font License 1.1. See the accompanying OFL files.

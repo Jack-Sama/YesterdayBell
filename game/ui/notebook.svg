@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1172" height="553" viewBox="0 0 1172 553">
+  <defs>
+    <linearGradient id="pages" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0" stop-color="#eee0c5"/>
+      <stop offset=".29" stop-color="#f9edda"/>
+      <stop offset=".39" stop-color="#ddc4a3"/>
+      <stop offset=".45" stop-color="#f6e9d5"/>
+      <stop offset="1" stop-color="#efe2c9"/>
+    </linearGradient>
+  </defs>
+  <path d="M4 30Q203 7 453 30Q746 -1 1166 30V536Q802 506 453 541Q198 518 4 542Z" fill="#343e51" stroke="#b99f82" stroke-width="2"/>
+  <path d="M18 19Q207 -1 453 19Q748 -11 1151 19V520Q803 491 453 525Q203 504 18 526Z" fill="#ddc6a6" stroke="#a99478"/>
+  <path d="M20 14Q205 -4 453 15Q753 -11 1147 13V508Q808 480 453 515Q209 494 20 515Z" fill="url(#pages)" stroke="#fff0d5"/>
+  <path d="M453 17V514M466 18V511" stroke="#9d8268" stroke-opacity=".35"/>
+  <path d="M65 230H402M65 274H402M65 318H402M65 362H402M65 406H402M65 450H402M65 484H402" stroke="#80988a" stroke-opacity=".26"/>
+  <path d="M64 63H244M64 193H384" stroke="#a16452" stroke-opacity=".62"/>
+  <path d="M1134 89H1171V148L1152 134L1134 148Z" fill="#a65e50"/>
+</svg>
